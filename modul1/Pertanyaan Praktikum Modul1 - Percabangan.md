@@ -4,10 +4,10 @@
 
 Pertanyaan Praktikum
 
-Pada kondisi apa program masuk ke blok if?
-Pada kondisi apa program masuk ke blok else?
-Apa fungsi dari perintah delay(timeDelay)?
-Jika program memiliki alur mati → lambat → cepat → reset (mati), ubah menjadi: lambat → cepat → sedang → mati (tanpa reset langsung) dan jelaskan setiap baris kode.
+1. Pada kondisi apa program masuk ke blok if? <br>
+2. Pada kondisi apa program masuk ke blok else?<br>
+3. Apa fungsi dari perintah delay(timeDelay)?<br>
+4. Jika program memiliki alur mati → lambat → cepat → reset (mati), ubah menjadi: lambat → cepat → sedang → mati (tanpa reset langsung) dan jelaskan setiap baris kode.<br>
 
 # Jawaban Pertanyaan Praktikum
 
