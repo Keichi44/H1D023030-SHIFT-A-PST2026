@@ -61,7 +61,7 @@ for (int ledPin = 8; ledPin >= 2; ledPin--) {
 
 Efeknya kebalikan dari sebelumnya, jadi LED terlihat balik arah.
 
-## Program Tambahan
+## 4. Program Tambahan
 
 ### Mode: 3 LED Kiri vs 3 LED Kanan (Bergantian)
 
