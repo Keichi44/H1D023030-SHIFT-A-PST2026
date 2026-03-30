@@ -65,9 +65,6 @@ Efeknya kebalikan dari sebelumnya, jadi LED terlihat balik arah.
 
 ### Mode: 3 LED Kiri vs 3 LED Kanan (Bergantian)
 
-![Gambar LED Kanan](perulangan2_a.png)
-![Gambar LED Kiri](perulangan2_b.png)
-
 Program ini membagi LED menjadi dua kelompok:
 
 * **Kiri:** Pin 2, 3, 4
