@@ -1,16 +1,17 @@
 
+#  Praktikum Sistem Tertanam  
+# Modul I: Percabangan
 
-````markdown
-# 📘 Praktikum Sistem Tertanam  
-## Modul I: Percabangan
+Pertanyaan Praktikum
 
-Repository ini berisi *source code* dan dokumentasi jawaban dari Pertanyaan Praktikum Modul I (Percabangan) pada mata kuliah **Sistem Tertanam dan Mikrokontroler**.
+Pada kondisi apa program masuk ke blok if?
+Pada kondisi apa program masuk ke blok else?
+Apa fungsi dari perintah delay(timeDelay)?
+Jika program memiliki alur mati → lambat → cepat → reset (mati), ubah menjadi: lambat → cepat → sedang → mati (tanpa reset langsung) dan jelaskan setiap baris kode.
 
----
+# Jawaban Pertanyaan Praktikum
 
-## 📌 Jawaban Pertanyaan Praktikum
-
-### 1. Kondisi Masuk ke Blok `if`
+# 1. Kondisi Masuk ke Blok `if`
 Program akan mengeksekusi blok `if` ketika kondisi:
 
 ```cpp
@@ -21,9 +22,7 @@ bernilai **true**.
 
 Artinya, program masuk ke blok ini saat jeda waktu kedipan LED telah mencapai batas tercepat, yaitu **100 milidetik atau kurang**.
 
----
-
-### 2. Kondisi Masuk ke Blok `else`
+# 2. Kondisi Masuk ke Blok `else`
 
 Program akan mengeksekusi blok `else` ketika kondisi pada `if` bernilai **false**, yaitu saat:
 
@@ -33,7 +32,7 @@ timeDelay > 100
 
 Pada kondisi ini, nilai `timeDelay` akan terus dikurangi sebesar **100 ms setiap loop**, sehingga efek kedipan LED menjadi semakin cepat.
 
-### 3. Fungsi `delay(timeDelay)`
+# 3. Fungsi `delay(timeDelay)`
 
 Fungsi:
 
@@ -49,11 +48,9 @@ Fungsi ini berperan untuk:
 * Mengatur kecepatan kedipan LED
 * Membuat perubahan status LED bisa terlihat oleh mata manusia
 
----
+# 4. Modifikasi Program
 
-# Modifikasi Program
-
-### Alur: Lambat → Cepat → Sedang → Mati
+# Alur: Lambat → Cepat → Sedang → Mati
 
 Program dimodifikasi agar LED:
 
