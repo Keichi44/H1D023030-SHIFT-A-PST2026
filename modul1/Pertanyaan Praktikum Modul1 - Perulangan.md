@@ -13,7 +13,7 @@ dan berikan penjelasan disetiap baris kode nya dalam bentuk README.md!
 ### 1. Skematik LED Running
 Rangkaian terdiri dari **5 LED** yang terhubung ke pin digital Arduino secara berurutan 
 
-![Skematik LED](images/perulangan1.png)
+(images/perulangan1.png)
 
 Setiap LED:
 - Terhubung ke pin digital Arduino
