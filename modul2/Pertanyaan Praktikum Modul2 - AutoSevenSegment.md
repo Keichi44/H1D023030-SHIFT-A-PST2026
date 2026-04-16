@@ -17,7 +17,7 @@ Rangkaian pada percobaan ini menggunakan:
 - 8 Resistor 220 Ohm
 - breadboard
   
-auto-seven-segment.png
+![Skematic auto-seven-segment](auto-seven-segment.png)
 
 # 2. Nilai num lebih dari 15
 Jika num > 15:
