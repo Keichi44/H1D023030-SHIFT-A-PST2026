@@ -32,8 +32,8 @@ Alasan yaitu,
 - Software:
 ```cpp
 digitalWrite(segmentPins[i], !digitPattern[num][i]);
-Operator ! membalik logika
 ```
+Operator ! membalik logika
 Pada Common Anode, LED menyala saat LOW
 
 # 4. Modifikasi program (F -> 0)
