@@ -43,6 +43,7 @@ Mode `INPUT_PULLUP` digunakan untuk mengaktifkan resistor pull-up internal pada 
 - Pin belum diatur sebagai OUTPUT di `setup()`
 
 # 4. Modifikasi Program (Increment & Decrement)
+![Skematic seven-segment-Push-Button](Seven-Segment-Double-Push-Button.png)
 ## Source Code
 
 ```cpp
