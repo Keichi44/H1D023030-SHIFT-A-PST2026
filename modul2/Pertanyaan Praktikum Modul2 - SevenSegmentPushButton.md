@@ -16,6 +16,7 @@ Rangkaian pada percobaan ini terdiri dari:
 - 8 Resistor 220 Ohm  
 - 1 Push Button
 - Breadboard
+![Skematic seven-segment-Push-Button](Seven-Segment-Push-Button.png)
 
 # 2. Penggunaan `INPUT_PULLUP`
 Mode `INPUT_PULLUP` digunakan untuk mengaktifkan resistor pull-up internal pada Arduino.
