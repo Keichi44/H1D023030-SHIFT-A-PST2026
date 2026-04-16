@@ -28,8 +28,8 @@ Dampak:
 # 3. Jenis seven segment
 Program menggunakan Common Anode.
 Alasan yaitu,
-Hardware: Pin COM terhubung ke 5V
-Software:
+- Hardware: Pin COM terhubung ke 5V
+- Software:
 ```cpp
 digitalWrite(segmentPins[i], !digitPattern[num][i]);
 Operator ! membalik logika
