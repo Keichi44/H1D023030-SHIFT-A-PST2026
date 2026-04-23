@@ -1,5 +1,5 @@
 #  Praktikum Sistem Tertanam  
-# Modul II: Auto Seven Segment
+# Modul III: Protokol Komunikasi
 
 # Pertanyaan Praktikum
 
