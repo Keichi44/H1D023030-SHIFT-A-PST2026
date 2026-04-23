@@ -7,17 +7,17 @@
 2. Apakah pin potensiometer harus seperti itu? Jelaskan yang terjadi apabila pin kiri dan pin kanan tertukar! 
 3) Modifikasi program dengan menggabungkan antara UART dan I2C (keduanya sebagai output) sehingga: 
 Data tidak hanya ditampilkan di LCD tetapi juga di Serial Monitor 
-| ADC:0 | Volt: 0.00 V | Persen: 0%|
+| ADC:0 | Volt: 0.00 V | Persen: 0% |
 |ADC: 0  0% | setCursor(0, 0) dan Bar (level) | setCursor(0, 1)
 Berikan penjelasan disetiap baris kode nya dalam bentuk README.md! 
 4. Lengkapi table berikut berdasarkan pengamatan pada Serial Monitor
 | ADC     | Volt(V) | Persen (%)|
 |---------|---------|-----------|
-| 1       | Isi B   | Isi C     |
-| 21      | Isi E   | Isi F     |
-| 49      | Isi E   | Isi F     |
-| 74      | Isi E   | Isi F     |
-| 96      | Isi E   | Isi       |
+| 1       |Isi E    |Isi C      |
+| 21      |Isi E    |Isi F      |
+| 49      |Isi E    |Isi F      |
+| 74      |Isi E    |Isi F      |
+| 96      |Isi E    |Isi        |
 
 # Jawaban Pertanyaan Praktikum
 
