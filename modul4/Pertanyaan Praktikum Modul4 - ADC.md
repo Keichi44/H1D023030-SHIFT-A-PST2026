@@ -101,7 +101,7 @@ void loop() {
 - `delay(15)`  
   Digunakan untuk memberikan jeda singkat agar pergerakan servo lebih stabil dan tidak terlalu cepat.
 
-  # Penjelasan Modifikasi Program
+# Penjelasan Modifikasi Program
 
 ## Modifikasi Rentang Sudut Servo
 Pada program ini dilakukan modifikasi pada fungsi:
