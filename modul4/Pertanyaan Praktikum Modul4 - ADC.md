@@ -1,5 +1,6 @@
 #  Praktikum Sistem Tertanam  
 # Modul IV:   Analog to Digital Converter (ADC)
+![Skematic ADC](ADC.png)
 
 # Pertanyaan Praktikum 
 
