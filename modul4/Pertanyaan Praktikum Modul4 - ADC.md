@@ -40,7 +40,6 @@ Artinya:
 - ADC `1023` menjadi sudut `180°`
 
 # 3. Modifikasi Program Servo (30° - 150°)
-# File Program: `modul4_adc.ino`
 
 ```cpp
 #include <Servo.h> // Library untuk servo motor
