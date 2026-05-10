@@ -1,5 +1,6 @@
 #  Praktikum Sistem Tertanam  
 # Modul IV : Digital to Analog Converter (DAC) / PWM
+![Skematic PWM](PWM.png)
 
 # Pertanyaan Praktikum
 1. Jelaskan mengapa LED dapat diatur kecerahannya menggunakan fungsi analogWrite()! 
