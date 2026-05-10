@@ -11,7 +11,7 @@
 # 1. Bagaimana proses konversi sinyal analog menjadi digital pada Arduino? Jelaskan!
 Arduino menggunakan fitur internal bernama *Analog to Digital Converter* (ADC) untuk mengubah sinyal analog menjadi data digital. ADC pada Arduino Uno memiliki resolusi 10-bit, sehingga tegangan analog 0-5V akan dikonversi menjadi nilai digital 0-1023. Saat tegangan analog masuk ke pin analog, mikrokontroler akan membaca tegangan tersebut lalu mengubahnya menjadi data digital secara linier. Tegangan 0V akan bernilai 0, sedangkan 5V akan bernilai 1023.
 
-# Faktor apa saja yang dapat mempengaruhi keakuratan pembacaan ADC?
+# 2. Faktor apa saja yang dapat mempengaruhi keakuratan pembacaan ADC?
 Beberapa faktor yang mempengaruhi keakuratan ADC antara lain:
 - Tegangan referensi yang tidak stabil
 - Noise atau gangguan listrik pada rangkaian
