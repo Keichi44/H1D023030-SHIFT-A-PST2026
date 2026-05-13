@@ -47,7 +47,7 @@ void TaskKeempat(void *pvParameters) {
   }
 }
 ```
-- Task baru akan dijalankan oleh scheduler bersama task lainnya.
+Task baru akan dijalankan oleh scheduler bersama task lainnya.
 
 # 3. Modifikasi Program dengan Sensor Potensiometer
 ## File Program: `modul5_freertos.ino`
