@@ -1,5 +1,5 @@
 #  Praktikum Sistem Tertanam  
-# Modul v: Multitasking
+# Modul V : Multitasking
 
 # Pertanyaan Praktikum
 
