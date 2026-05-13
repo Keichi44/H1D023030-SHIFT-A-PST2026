@@ -136,4 +136,4 @@ Dengan penggunaan Queue:
 Berdasarkan percobaan yang telah dilakukan, dapat disimpulkan bahwa:
 1. FreeRTOS Queue dapat digunakan untuk komunikasi data antar task secara aman.
 2. Queue membantu mencegah race condition pada pertukaran data.
-3. Sensor DHT dapa
+3. Sensor DHT dapat diintegrasikan dengan FreeRTOS untuk menampilkan data suhu dan kelembapan secara real-time.
