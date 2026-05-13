@@ -12,7 +12,8 @@
 # 1. Apakah ketiga task berjalan secara bersamaan atau bergantian? Jelaskan mekanismenya!
 
 - Ketiga task berjalan secara bergantian (*concurrent*), bukan benar-benar paralel.
-- Arduino Uno menggunakan prosesor *single-core*, sehingga hanya dapat menjalankan satu instruksi pada satu waktu. FreeRTOS menggunakan *scheduler* untuk mengatur pergantian eksekusi setiap task menggunakan teknik *time slicing* atau *context switching*. Perpindahan antar task terjadi sangat cepat sehingga task terlihat berjalan secara bersamaan.
+- Arduino Uno menggunakan prosesor *single-core*, sehingga hanya dapat menjalankan satu instruksi pada satu waktu. FreeRTOS menggunakan *scheduler* untuk mengatur pergantian eksekusi setiap task menggunakan teknik *time slicing* atau *context switching*.
+- Perpindahan antar task terjadi sangat cepat sehingga task terlihat berjalan secara bersamaan.
 
 # 2. Bagaimana cara menambahkan task keempat? Jelaskan langkahnya!
 - Langkah-langkah menambahkan task keempat:
